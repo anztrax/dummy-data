@@ -1,0 +1,40 @@
+{
+  "movies" : [
+    {
+      "title": "Wings",
+      "imdbId": "tt0018578",
+      "releaseDate": "1927-05-19T05:00:00.000Z",
+      "releaseCountry": "USA",
+      "releaseYear": 1927,
+      "releaseMonth": 4,
+      "releaseDay": 19
+    },
+    {
+      "title": "The Broadway Melody",
+      "imdbId": "tt0019729",
+      "releaseDate": "1929-02-01T05:00:00.000Z",
+      "releaseCountry": "USA",
+      "releaseYear": 1929,
+      "releaseMonth": 1,
+      "releaseDay": 1
+    },
+    {
+      "title": "All Quiet on the Western Front",
+      "imdbId": "tt0020629",
+      "releaseDate": "1930-04-21T04:00:00.000Z",
+      "releaseCountry": "USA",
+      "releaseYear": 1930,
+      "releaseMonth": 3,
+      "releaseDay": 21
+    },
+    {
+      "title": "Cimarron",
+      "imdbId": "tt0021746",
+      "releaseDate": "1931-01-26T05:00:00.000Z",
+      "releaseCountry": "USA",
+      "releaseYear": 1931,
+      "releaseMonth": 0,
+      "releaseDay": 26
+    }
+  ]
+}
